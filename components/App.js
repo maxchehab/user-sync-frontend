@@ -1,4 +1,5 @@
 import "../prism.css";
+import "./Profile";
 
 export default class App extends React.Component {
   render() {
